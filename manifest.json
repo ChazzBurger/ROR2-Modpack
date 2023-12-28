@@ -1,0 +1,19 @@
+{
+	"name": "A_ROR2_Modpack_Indeed",
+	"version_number": "1.0.0",
+	"website_url": "htttps://github.com/thunderstore-io",
+	"description": "Risk of Rain is my life",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2113",
+		"tristanmcpherson-R2API-5.0.5",
+		"XoXFaby-BetterUI-2.8.4",
+		"Felda-Actually_Faster-1.0.8",
+		"KubeRoot-CommandQueue-1.4.0",
+		"TheRealElysium-EmptyChestsBeGone-1.1.1",
+		"JohnEdwa-RTAutoSprintEx-2.1.2",
+		"KingEnderBrine-RandomCharacterSelection-1.4.1",
+		"Bubbet-SkipIntro-1.0.0",
+		"HIFU-StageAesthetic-1.0.3",
+		"BunnySquad-StutterStunterFork-1.0.1"
+	]
+}

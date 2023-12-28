@@ -1,7 +1,7 @@
 {
 	"name": "A_ROR2_Modpack_Indeed",
 	"version_number": "1.0.0",
-	"website_url": "htttps://github.com/thunderstore-io",
+	"website_url": "https://github.com/ChazzBurger/ROR2-Modpack",
 	"description": "Risk of Rain is my life",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2113",

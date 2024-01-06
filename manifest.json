@@ -1,6 +1,6 @@
 {
 	"name": "A_ROR2_Modpack_Indeed",
-	"version_number": "1.0.2",
+	"version_number": "1.0.3",
 	"website_url": "https://github.com/ChazzBurger/ROR2-Modpack",
 	"description": "Risk of Rain is my life",
 	"dependencies": [
@@ -21,6 +21,10 @@
 		"Paladin_Alliance-PaladinMod-1.6.3",
 		"Gnome-ChefMod-2.2.8",
 		"MetrosexualFruitcake-CustomEmotesAPI-2.2.5",
-		"JavAngle-TheHouse-2.1.0"
+		"MetrosexualFruitcake-BadAssEmotes-1.7.8",
+		"JavAngle-TheHouse-2.1.0",
+		"dan8991iel-LunarCoinShareOnPickup-4.2.1",
+		"HIFU-Inferno-1.7.0",
+		"KingEnderBrine-ScrollableLobbyUI-1.8.0"
 	]
 }

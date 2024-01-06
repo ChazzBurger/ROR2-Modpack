@@ -1,6 +1,6 @@
 {
 	"name": "A_ROR2_Modpack_Indeed",
-	"version_number": "1.0.1",
+	"version_number": "1.0.2",
 	"website_url": "https://github.com/ChazzBurger/ROR2-Modpack",
 	"description": "Risk of Rain is my life",
 	"dependencies": [
@@ -14,6 +14,13 @@
 		"KingEnderBrine-RandomCharacterSelection-1.4.1",
 		"Bubbet-SkipIntro-1.0.0",
 		"HIFU-StageAesthetic-1.0.3",
-		"BunnySquad-StutterStunterFork-1.0.1"
+		"BunnySquad-StutterStunterFork-1.0.1",
+		"Dragonyck-Bomber-1.3.1",
+		"Dragonyck-Tracer-1.6.0",
+		"bobblet-UltrakillV1_Bandit_Skin-1.0.4",
+		"Paladin_Alliance-PaladinMod-1.6.3",
+		"Gnome-ChefMod-2.2.8",
+		"MetrosexualFruitcake-CustomEmotesAPI-2.2.5",
+		"JavAngle-TheHouse-2.1.0"
 	]
 }
